@@ -1,6 +1,5 @@
 ### Hi, I'm Gizelle
 But my friends call me 'Elle' or 'Ella', and you can too. 😁 
-😄 Pronouns: She/Her/They
 
 * I’m currently working on becoming a data professional, preferably as a data analyst or business analyst. 
 * What I've learned with 4+ years of investment management experience with an understanding of sales, operations, and marketing:
@@ -13,7 +12,9 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
 
 Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion).
 
--🌱 My current side passions have been learning statistics, specifically game theory, and how it can be intertwined with machine learning.
--👯 I’m looking to collaborate on projects for professional and personal growth
--⚡ Fun fact: I'm an avid reader (the goal is a book a week!), I love sports and have always wanted to be a stand-up comedian.
+🌱 My current side passions have been learning statistics, specifically game theory, and how it can be intertwined with machine learning.
+
+👯 I’m looking to collaborate on projects for professional and personal growth
+
+⚡ Fun fact: I'm an avid reader (the goal is a book a week!), I love sports and have always wanted to be a stand-up comedian.
 

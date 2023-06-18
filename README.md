@@ -2,7 +2,7 @@
 But my friends call me 'Elle' or 'Ella', and you can too. 😁 
 
 * I’m currently working on becoming a data professional, preferably as a data analyst or business analyst. 
-* What I've learned with 4+ years of investment management experience with an understanding of sales, operations, and marketing:
+* What I've learned in 4+ years of investment management experience with an understanding of sales, operations, and marketing:
    * Recognized the significance of the investment and banking sector adapting to a data-driven future
    * Aspired to be at the forefront of the industry's digital transformation.
 

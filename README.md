@@ -11,6 +11,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
    * Sales Enablement and Sales Marketing - explored ways to leverage data and technology.
    * Operations Associate - enhanced trade reporting and operations using data analysis and technology.
 
+Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion).
 
 🌱 My current side passions have been learning statistics, specifically game theory, and how it can be intertwined with machine learning.
 👯 I’m looking to collaborate on projects for professional and personal growth

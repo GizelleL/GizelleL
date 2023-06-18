@@ -7,7 +7,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
   * Recognized the significance of the investment and banking sector adapting to a data-driven future
   * Aspired to be at the forefront of the industry's digital transformation.
 
-* :love_letter: Learn more about my professional experience: https://www.linkedin.com/in/gizellelao/ 
+:love_letter: Learn more about my professional experience: https://www.linkedin.com/in/gizellelao/ 
   * Sales Enablement and Sales Marketing - explored ways to leverage data and technology.
   * Operations Associate - enhanced trade reporting and operations using data analysis and technology.
 

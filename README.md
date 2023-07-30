@@ -4,7 +4,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
 * I’m currently working on becoming a data professional, preferably as a data analyst or business analyst. 
 * What I've learned working across sales, operations and marketing teams in the 4+ years of investment management experience is:
 
-   * Developing the aspiration to be at the forefront of the industry's digital transformation.
+   * To be at the forefront of the industry's digital transformation.
    *  Sales Enablement and Sales Marketing - explored ways to leverage data and technology to monitor, report and explore sales and marketing analytics; Recognizing         the shift towards a data-driven future in the investment management and banking sector.
    * Operations Associate - enhanced trade reporting and operations using data analysis and technology.
 

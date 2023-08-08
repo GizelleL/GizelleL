@@ -1,7 +1,9 @@
 ### Hi, I'm Gizelle
 But my friends call me 'Elle' or 'Ella', and you can too. 😁 
 
-* I’m currently working on becoming a data professional, preferably as a data analyst or business analyst. You can find my certificates of accomplishments and achievements in the 'GizelleL' pinned repository. In addition to being a post-graduate student, I'm open to continuous learning and participate in Google, Datacamp, Udemy and Coursera for fun, the certificate is just the cherry on top! 
+* I’m currently working on becoming a data professional, preferably as a data analyst or business analyst.
+* You can find my certificates of accomplishments and achievements here:
+        * StatementofAccomplishment-IntrotoSQL-Datacamp.pdf 
 
 * More about me:  I've gained valueable lessons working across sales, operations and marketing teams in the 4+ years of investment management experience, the most important so far have been:
 

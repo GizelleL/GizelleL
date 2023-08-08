@@ -7,6 +7,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
   * [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
 
 :love_letter: Learn more about my professional experience: https://www.linkedin.com/in/gizellelao/ 
+##### Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion).
 
 #### About Me Snippets:
 I've gained valueable lessons working across sales, operations and marketing teams in the 4+ years of investment management experience, the most important so far have been:
@@ -14,8 +15,6 @@ I've gained valueable lessons working across sales, operations and marketing tea
    * Find a way to be at the forefront of the investment industry's digital and data transformation projects.
    *  Sales Enablement and Sales Marketing - explored ways to leverage data and technology to monitor, report and explore sales and marketing analytics; Recognizing         the shift towards a data-driven future in the investment management and banking sector.
    * Operations Associate - enhanced trade reporting and operations using data analysis and technology.
-
-Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion).
 
 🌱 My current side passions have been strengthening my statistics knowledge, specifically game theory, and how it can be intertwined with machine learning.
 

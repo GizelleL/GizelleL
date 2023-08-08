@@ -5,6 +5,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
 * You can find my certificates of accomplishments and achievements below!
 
   [Intro to SQL Accomplishment](StatementofAccomplishment-IntrotoSQL-Datacamp.pdf)
+  
   [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
 
 :love_letter: Learn more about my professional experience: https://www.linkedin.com/in/gizellelao/ 

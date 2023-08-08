@@ -1,4 +1,4 @@
-### Hi, I'm Gizelle
+## Hi, I'm Gizelle
 But my friends call me 'Elle' or 'Ella', and you can too. 😁 
 
 * I’m currently working on becoming a data professional, preferably as a data analyst or business analyst.
@@ -11,7 +11,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
 :love_letter: Learn more about my professional experience: https://www.linkedin.com/in/gizellelao/ 
 <h6>  Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion). </h6>
 
-###### More About Me:
+##### More About Me:
 I've gained valueable lessons working across sales, operations and marketing teams in the 4+ years of investment management experience, the most important so far have been:
 
    * Find a way to be at the forefront of the investment industry's digital and data transformation projects.

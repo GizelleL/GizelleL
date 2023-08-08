@@ -3,6 +3,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
 
 * I’m currently working on becoming a data professional, preferably as a data analyst or business analyst.
 * You can find my certificates of accomplishments and achievements below!
+  
       * [Intro to SQL Accomplishment](StatementofAccomplishment-IntrotoSQL-Datacamp.pdf)
       * [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
   

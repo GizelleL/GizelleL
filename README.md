@@ -7,7 +7,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
   * [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
 
 
-* More about me:  I've gained valueable lessons working across sales, operations and marketing teams in the 4+ years of investment management experience, the most important so far have been:
+About me:  I've gained valueable lessons working across sales, operations and marketing teams in the 4+ years of investment management experience, the most important so far have been:
 
    * Find a way to be at the forefront of the investment industry's digital and data transformation projects.
    *  Sales Enablement and Sales Marketing - explored ways to leverage data and technology to monitor, report and explore sales and marketing analytics; Recognizing         the shift towards a data-driven future in the investment management and banking sector.

@@ -2,8 +2,7 @@
 But my friends call me 'Elle' or 'Ella', and you can too. 😁 
 
 * I’m currently working on becoming a data professional, preferably as a data analyst or business analyst.
-* You can find my certificates of accomplishments and achievements here:
-        StatementofAccomplishment-IntrotoSQL-Datacamp.pdf 
+* You can find my certificates of accomplishments and achievements below!
   
   
 
@@ -24,3 +23,4 @@ Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis
 
 ⚡ Fun fact: I'm an avid reader (the goal is a book a week!), I love sports and have always wanted to be a stand-up comedian.
 
+[Intro to SQL Accomplishment](StatementofAccomplishment-IntrotoSQL-Datacamp.pdf)

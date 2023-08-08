@@ -7,7 +7,7 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
   * [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
 
 :love_letter: Learn more about my professional experience: https://www.linkedin.com/in/gizellelao/ 
-##### Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion).
+###### <i> Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion). </i>
 
 #### About Me Snippets:
 I've gained valueable lessons working across sales, operations and marketing teams in the 4+ years of investment management experience, the most important so far have been:

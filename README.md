@@ -3,8 +3,9 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
 
 * I’m currently working on becoming a data professional, preferably as a data analyst or business analyst.
 * You can find my certificates of accomplishments and achievements below!
-  * [Intro to SQL Accomplishment](StatementofAccomplishment-IntrotoSQL-Datacamp.pdf)
-  * [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
+
+   [Intro to SQL Accomplishment](StatementofAccomplishment-IntrotoSQL-Datacamp.pdf)
+   [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
 
 :love_letter: Learn more about my professional experience: https://www.linkedin.com/in/gizellelao/ 
 <h6>  Skills: CRM, Advanced Excel and SQL, Quantitative Analysis, Qualitative Analysis, A/B Testing, Hypothesis Testing, SSMS, SPSS, Zeppelin, Hadoop, Microsoft PowerPoint, Python, PowerBI, Tableau, DEI (Diversity, Equity, Inclusion). </h6>

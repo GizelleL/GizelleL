@@ -7,8 +7,8 @@ But my friends call me 'Elle' or 'Ella', and you can too. 😁
       * [Intro to SQL Accomplishment](StatementofAccomplishment-IntrotoSQL-Datacamp.pdf)
       * [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
   
-  
-
+  * [Intro to SQL Accomplishment](StatementofAccomplishment-IntrotoSQL-Datacamp.pdf)
+  * [Intro to Tableau Accomplishment](StatementofAccomplishment-IntrotoTableau.pdf)
 * More about me:  I've gained valueable lessons working across sales, operations and marketing teams in the 4+ years of investment management experience, the most important so far have been:
 
    * Find a way to be at the forefront of the investment industry's digital and data transformation projects.
